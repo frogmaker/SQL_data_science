@@ -1,1 +1,3 @@
-# SQL_agh
+# SQL
+
+zadanie na Bazie Nordwind
